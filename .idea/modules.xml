@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Week4-Jadle-Restaurant-API.iml" filepath="$PROJECT_DIR$/Java-Week4-Jadle-Restaurant-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Week4-Jadle-Restaurant-API_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Week4-Jadle-Restaurant-API_main.iml" group="Java-Week4-Jadle-Restaurant-API" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Week4-Jadle-Restaurant-API_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Week4-Jadle-Restaurant-API_test.iml" group="Java-Week4-Jadle-Restaurant-API" />
+    </modules>
+  </component>
+</project>

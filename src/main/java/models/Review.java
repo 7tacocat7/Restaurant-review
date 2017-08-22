@@ -18,6 +18,40 @@ public class Review {
         this.rating = rating;
         this.createdAt = LocalDateTime.now();
     }
+//getters
+    public String getWrittenBy() {
+        return writtenBy;
+    }
+
+    public int getRating() {
+        return rating;
+    }
+
+    public LocalDateTime getCreatedAt() {
+        return createdAt;
+    }
+
+    public int getId() {
+        return id;
+    }
+//setters
+
+
+    public void setWrittenBy(String writtenBy) {
+        this.writtenBy = writtenBy;
+    }
+
+    public void setRating(int rating) {
+        this.rating = rating;
+    }
+
+    public void setCreatedAt(LocalDateTime createdAt) {
+        this.createdAt = createdAt;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     @Override
     public boolean equals(Object o) {
